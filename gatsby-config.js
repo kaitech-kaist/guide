@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: `@rocketseat/gatsby-theme-docs`,
-    defaultTitle: `@rocketseat/gatsby-theme-docs`,
-    siteTitleShort: `gatsby-theme-docs`,
-    siteDescription: `Out of the box Gatsby Theme for creating documentation websites easily and quickly`,
-    siteUrl: `https://rocketdocs.netlify.com`,
-    siteAuthor: `@rocketseat`,
+    siteTitle: `Kaitech`,
+    defaultTitle: `Kaitech`,
+    siteTitleShort: `Kaitech`,
+    siteDescription: `Website for KAIST student organization - Kaitech`,
+    siteUrl: `https://kaitech-kaist.github.io`,
+    siteAuthor: `@kaitech-kaist`,
     siteImage: `/banner.png`,
     siteLanguage: `en`,
     themeColor: `#7159c1`,
@@ -25,8 +25,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Rocketseat Gatsby Themes`,
-        short_name: `RS Gatsby Themes`,
+        name: `Kaitech KAIST`,
+        short_name: `Kaitech`,
         start_url: `/`,
         background_color: `#ffffff`,
         display: `standalone`,
