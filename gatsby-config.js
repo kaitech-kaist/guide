@@ -19,8 +19,8 @@ module.exports = {
       options: {
         configPath: `src/config`,
         docsPath: `src/docs`,
-        githubUrl: `https://github.com/rocketseat/gatsby-themes`,
-        baseDir: `examples/gatsby-theme-docs`,
+        githubUrl: `https://github.com/kaitech-kaist/guide`,
+        baseDir: `/`,
       },
     },
     {
@@ -35,12 +35,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-sitemap`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        // trackingId: ``,
-      },
-    },
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
