@@ -1,10 +1,11 @@
 module.exports = {
+  pathPrefix: `guide`,
   siteMetadata: {
     siteTitle: `Kaitech`,
     defaultTitle: `Kaitech`,
     siteTitleShort: `Kaitech`,
     siteDescription: `Website for KAIST student organization - Kaitech`,
-    siteUrl: `https://kaitech-kaist.github.io`,
+    siteUrl: `https://kaitech-kaist.github.io/guide`,
     siteAuthor: `@kaitech-kaist`,
     siteImage: `/banner.png`,
     siteLanguage: `en`,
