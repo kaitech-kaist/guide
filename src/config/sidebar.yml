@@ -2,13 +2,15 @@
 
 - label: 'Introduction'
   link: '/'
-- label: 'Getting started'
-  link: '/getting-started'
-- label: Usage
+- label: University
   items:
-    - label: 'Creating docs'
-      link: '/usage/creating-docs'
-    - label: 'Navigation'
-      link: '/usage/navigation'
-    - label: 'Shadowing'
-      link: '/usage/shadowing'
+    - label: 'What year are you?'
+      link: '/university/what-year-are-you'
+    - label: 'Application process'
+      link: '/university/application-process'
+    - label: 'Opportunities for students'
+      link: '/university/opportunities-for-students'
+    - label: 'Substituting research credits'
+      link: '/university/substituting-research-credits'
+    - label: 'Legal Stuff'
+      link: '/university/legal-stuff'
