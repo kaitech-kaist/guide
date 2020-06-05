@@ -74,6 +74,11 @@ export default function GlobalStyle() {
           color: ${theme.colors.primary};
           font-weight: bold;
           text-decoration: none;
+          &:hover {
+            color: ${theme.colors.primary}!important;
+            transition: all 100ms cubic-bezier(0.4, 0, 0.2, 1) 0s;
+            opacity: 1 !important;
+          }
         }
         blockquote {
           margin: 0;

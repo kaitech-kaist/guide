@@ -16,3 +16,7 @@
       link: '/university/substituting-research-credits'
     - label: 'Work permit'
       link: '/university/work-permit'
+- label: For KAIST
+  items: 
+    - label: 'Data Science Track at KAIST'
+      link: '/for-kaist/data-science-track-at-kaist'
