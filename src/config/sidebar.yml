@@ -12,11 +12,9 @@
       link: '/university/increasing-the-odds'
     - label: 'Opportunities for students'
       link: '/university/opportunities-for-students'
-    - label: 'Substituting research credits'
-      link: '/university/substituting-research-credits'
+- label: Specific to KAIST
+  items: 
     - label: 'Work permit'
       link: '/university/work-permit'
-- label: For KAIST
-  items: 
     - label: 'Data Science Track at KAIST'
       link: '/for-kaist/data-science-track-at-kaist'
