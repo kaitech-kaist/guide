@@ -15,6 +15,6 @@
 - label: Specific to KAIST
   items: 
     - label: 'Work permit'
-      link: '/university/work-permit'
+      link: '/for-kaist/work-permit'
     - label: 'Data Science Track at KAIST'
       link: '/for-kaist/data-science-track-at-kaist'
