@@ -30,6 +30,7 @@ module.exports = {
         short_name: `Kaitech`,
         start_url: `/`,
         background_color: `#ffffff`,
+        theme: '#ffffff',
         display: `standalone`,
         icon: `static/favicon.png`,
       },
