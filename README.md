@@ -10,13 +10,13 @@ As the website is PWA optimized it is possible to install it as a web app if you
 
 Click on menu tray > Add to Home Screen.
 
-![mobile PWA install screenshot](static/mobile_install.jpg)
+<img src="static/mobile_install.jpg" style="width: 15em;" alt="PWA mobile install screen"/>
 
 ### On Desktop
 
 In url bar to the right click on (+) icon.
 
-![desktop PWA install screenshot](static/desktop_install.png)
+<img src="static/desktop_install.png" style="width: 15em;" alt="PWA desktop install screen"/>
 
 ## Development
 
