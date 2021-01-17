@@ -16,5 +16,7 @@
   items: 
     - label: 'Work permit'
       link: '/for-kaist/work-permit'
+    - label: 'Getting credits for internship'
+      link: '/for-kaist/substituting-research-credits'
     - label: 'Data Science Track at KAIST'
       link: '/for-kaist/data-science-track-at-kaist'
