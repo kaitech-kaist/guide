@@ -20,3 +20,7 @@
       link: '/for-kaist/substituting-research-credits'
     - label: 'Data Science Track at KAIST'
       link: '/for-kaist/data-science-track-at-kaist'
+- label: Personal Notes
+  items:
+    - label: 'Notes on referral'
+      link: '/personal-notes/notes-on-referral'
